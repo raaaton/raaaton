@@ -1,7 +1,7 @@
 # Hello and welcome on my profile! 👋
 
 ## 🦝 About Me:
-🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning JavaScript and Tailwind CSS
+🌱 I’m currently learning React ⚛️
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.raton_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29147291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranolouis@gmail.com) 
