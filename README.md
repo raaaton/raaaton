@@ -1,7 +1,7 @@
 # Hello and welcome on my profile! 👋
 
 ## 🦝 About Me:
-🌱 I’m currently learning Next.js & Supabase
+🌱 I’m currently learning 🔺 Next.js & ⚡ Supabase
 
 ## 💼 Portfolio:
 You can visit my porfolio [here](https://raton-portfolio.vercel.app/)! Here's the GitHub repo for it [here](https://github.com/raaaton/portfolio).
