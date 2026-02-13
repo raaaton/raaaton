@@ -8,7 +8,7 @@ I am currently building **[VinTrace](https://github.com/raaaton/vintrace)**. Fee
 > A full-stack vehicle tracking platform leveraging Next.js and Supabase to manage automotive history.
 
 ## 💼 Portfolio:
-You can visit my porfolio [here](https://raton-portfolio.vercel.app/)! Here's the GitHub repo for it [here](https://github.com/raaaton/portfolio). But it's a bit deprecated i'm working on it.
+You can visit my portfolio [here](https://raton-portfolio.vercel.app/)! Here's the GitHub repo for it [here](https://github.com/raaaton/portfolio). But it's a bit deprecated I'm working on it.
 
 ## 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
