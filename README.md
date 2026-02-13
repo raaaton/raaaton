@@ -1,4 +1,4 @@
-# Hello and welcome on my profile! 👋
+# Hi, I'm Raton! 👋
 
 ## 🦝 About Me:
 🌱 I’m currently learning 🔺 Next.js & ⚡ Supabase
